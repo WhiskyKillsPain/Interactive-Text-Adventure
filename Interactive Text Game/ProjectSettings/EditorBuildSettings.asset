@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alley.unity
     guid: be72928d1105ce1458a10ed108508bcf
+  - enabled: 1
+    path: Assets/Scenes/Victory!.unity
+    guid: ee5822b3b9674d4469deb330e699d292
   m_configObjects: {}
